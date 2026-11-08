@@ -206,6 +206,3 @@ python3 synthea_pipeline.py --generate -p 200 -a 40-80 --state California --sqli
 
 ---
 
-## 📄 License
-This project is licensed under the Apache 2.0 License.
-Synthetic patient health data generated using Synthea (MITRE Corporation).
