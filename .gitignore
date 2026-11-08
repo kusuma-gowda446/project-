@@ -1,0 +1,25 @@
+# Large JAR binaries (>100MB exceeds GitHub hard limit)
+synthea-with-dependencies.jar
+*.jar
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+langgraph>=1.2.0
+langchain-core>=1.7.0
+pydantic>=2.10.0
+pandas>=2.2.0
+numpy>=1.26.0
+python-dateutil>=2.9.0
